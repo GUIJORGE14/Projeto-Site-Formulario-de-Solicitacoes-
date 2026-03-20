@@ -45,7 +45,7 @@ namespace CSharpAsanaApp
         { "marcelo", "marcelo.grandchamp@inoltra.tech" },
         { "ramis", "ramis.damasceno@inoltra.tech" }, 
         {"michel", "michel.brito@novvax.com.br"}, 
-        {"guilherme", "sousaguilhermejorge@gmail.com"}
+        {"guilherme", "guilherme.sousa@novvax.com.br"}
     };
 }   
     
